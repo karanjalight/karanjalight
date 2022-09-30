@@ -1,6 +1,11 @@
 ### Hi There 👋 
 
 ### My name is Paul Karanja<h2>
+### my email is : devkaranja01@gmail.com
+
+
+### Socials
+<a href="https://paulkaranja.netlify.app/">  ⭐️ click here to view my portfolio 🏠 </a>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.01-blue.svg?cacheSeconds=2592000" />
 </p>
