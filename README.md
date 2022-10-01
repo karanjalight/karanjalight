@@ -8,6 +8,7 @@
 <br><br>
 <p>LinkedIn Profile</p>
 <a href="www.linkedin.com/in/karanja-paul-444697222"> 👀 www.linkedin.com/in/karanja-paul-444697222</a>
+<br>
 <p> Email </p>
 <p>📩  devkaranja01@gmail.com </p>
 <p>
