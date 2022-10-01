@@ -5,8 +5,10 @@
 
 
 ### Socials
+<p>Personal Portfolio</p>
 <a href="https://paulkaranja.netlify.app/">  ⭐️ click here to view my portfolio 🏠 </a>
 <br>
+<p>LinkedIn Profile</p>
 <a href="www.linkedin.com/in/karanja-paul-444697222"> 👀 www.linkedin.com/in/karanja-paul-444697222</a>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.01-blue.svg?cacheSeconds=2592000" />
