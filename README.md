@@ -23,6 +23,6 @@ I have 2 years of experience, currently doing a barchelors degree in computer sc
 I do my backend in python frameworks like Django and Flask. I have also learnt security best practises and encrypting important APIs.
 
 ### What I do for Fun
-<p> I love connecting with people </p>
-<p> love gaming 'fifa is my portion' </p>
-<p> I also excercise to keep fit </p>
+<p> -I love connecting with people </p>
+<p> -love gaming 'fifa is my portion' </p>
+<p> -I also excercise to keep fit </p>
