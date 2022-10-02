@@ -10,7 +10,7 @@
 <p><a href="www.linkedin.com/in/karanja-paul-444697222"> 👀 www.linkedin.com/in/karanja-paul-444697222</a></p>
 
 <p> Email </p>
-<a>📩  devkaranja01@gmail.com </a>
+<p>📩  devkaranja01@gmail.com </p>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.01-blue.svg?cacheSeconds=2592000" />
 </p>
