@@ -7,7 +7,7 @@
 <a href="https://paulkaranja.netlify.app/">  ⭐️ click here to view my portfolio 🏠 </a>
 <br><br>
 <p>LinkedIn Profile</p>
-<p><a href="https://www.linkedin.com/in/paulkaranja-444697222/"> 👀 www.linkedin.com/in/karanja-paul-444697222</a></p>
+<p><a href="https://www.linkedin.com/in/paulkaranja-444697222/"> 👀 Click Here</a></p>
 
 <p> Email </p>
 <p>📩  devkaranja01@gmail.com </p>
