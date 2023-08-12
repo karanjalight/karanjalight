@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Karanja</h1>
 <h3 align="center">A passionate developer from Kenya</h3>
 
- <img align="right" alt="banner" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="karanjalight" />
+ <img align="right" alt="banner" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="karanjalight" />
 
 - 🔭 I’m currently working on **KaziQuest**
 
