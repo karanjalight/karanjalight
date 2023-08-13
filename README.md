@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.paulkaranja.netlify.app](www.paulkaranja.netlify.app)
 
-- 💬 Ask me about **Django, Python JavaScript**
+- 💬 Ask me about **Django, Python, JavaScript**
 
 - 📫 How to reach me **+254708683046**
 
