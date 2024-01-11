@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **KaziQuest**
 
-- 🌱 I’m currently learning **Nuxt 3**
+- 🌱 I’m currently good at: **Nuxt 3**,  **React**,  **Vue**
 
 - 👨‍💻 All of my projects are available at [www.paulkaranja.netlify.app](www.paulkaranja.netlify.app)
 
