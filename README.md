@@ -3,7 +3,7 @@
 
  <img align="right" alt="banner" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="karanjalight" />
 
-- 🔭 I’m currently working on **KaziQuest**
+- 🔭 I’m currently working on **TAZAMA MUSIC PLAYER**
 
 - 🌱 I’m currently good at: **Nuxt 3**,  **React**,  **Vue**
 
